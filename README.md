@@ -1,5 +1,4 @@
-### 💫 About Me:
-## Hola 👋🏻
+# Hola 👋🏻
 Mi nombre es Mario López, soy de España, concretamente de Barcelona 🧡 y soy Desarrollador Web 👨🏻‍💻 en constante aprendizaje de nuevas tecnologías 💪🏻<br><br>🔭 Actualmente estoy estudiando primero de Desarrollo de Aplicaciones Web 💻<br>🌱 ¡Actualmente estoy aprendiendo por cuenta propia sobre React, Tailwind CSS, Bootstrap 💙 y más!<br>⚡ Si tienes consejos interesantes de programación (JS, React y más), sigueme en mi Twitter para contactar conmigo. <br>✨ También estoy en algunos canales de Discord para aprender más sobre tecnología y discutir con la comunidad.<br>💖 En mi tiempo libre aprendo sobre nuevas tecnologías que me llaman la atención, y también leo libros 📚
 
 
