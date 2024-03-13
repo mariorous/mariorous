@@ -20,7 +20,7 @@ Soy un desarrollador de 21 años, soy de Barcelona y me apasiona crear experienc
 
 **Backend Development:** `Node.js`
 
-**Testing:** `Cypress` `Playwright` `Vitest` `Postman` `Insomnia`
+**Testing:** `NodeJS Test` 
 
 **Others:**  `Scrum`  `Jira`
  
