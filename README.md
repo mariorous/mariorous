@@ -1,4 +1,4 @@
-![Github readme banner](https://gifdb.com/images/high/pixel-art-super-mario-computer-amwdq1xi8bgz0omx.gif)
+![NiTjnID](https://github.com/mariorous/mariorous/assets/67478429/0d6bbc82-a6a0-4194-abe4-084901c4da5b)
 
 ## 👋About Me:
 
