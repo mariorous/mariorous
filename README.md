@@ -4,8 +4,8 @@
 
 Soy un desarrollador de 21 años, soy de Barcelona y me apasiona crear experiencias digitales. <br>
 🔭 Actualmente estoy estudiando primero de Desarrollo de Aplicaciones Web 💻 <br>
-🌱 ¡Actualmente estoy aprendiendo por cuenta propia sobre React, Tailwind CSS, y más! <br>
-⚡ Si tienes consejos interesantes de programación (JS, React y más), sigueme en mi Twitter para contactar conmigo. <br>
+🌱 Estoy aprendiendo por cuenta propia sobre React, Tailwind CSS, TypeScript y más. <br>
+⚡ Si tienes consejos interesantes de programación, sígueme en mi Twitter para contactar conmigo. <br>
 ✨ También estoy en algunos canales de Discord para aprender más sobre tecnología y discutir con la comunidad. <br>
 💖 En mi tiempo libre aprendo sobre nuevas tecnologías que me llaman la atención, y también leo libros 📚
 
@@ -18,5 +18,5 @@ Soy un desarrollador de 21 años, soy de Barcelona y me apasiona crear experienc
 
 ## 📫 Contact
 Puedes contactarme en hellomariorous@gmail.com.
-Para una respuesta rápida, envíame un DM en [LinkedIn](https://www.linkedin.com/in/emariors/). 
+Para una respuesta rápida, envíame un DM en [LinkedIn](https://www.linkedin.com/in/mariorous/). 
 
