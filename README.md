@@ -1,4 +1,4 @@
-![Github readme banner](https://github.com/Harsh12Codes/Harsh12Codes/assets/83909388/cfc8e6ce-df39-49b4-8ce7-6f540b9bf34f)
+![Github readme banner](https://gifdb.com/images/high/pixel-art-super-mario-computer-amwdq1xi8bgz0omx.gif)
 
 ## 👋About Me:
 
@@ -10,7 +10,6 @@ Soy un desarrollador de 21 años, soy de Barcelona y me apasiona crear experienc
 💖 En mi tiempo libre aprendo sobre nuevas tecnologías que me llaman la atención, y también leo libros 📚
 
 - Visita mi web [coming soon](url) para aprender más sobre mi.
-
 
 [![](https://visitcount.itsvg.in/api?id=harsh12codes&icon=0&color=0)](https://visitcount.itsvg.in) 
 
