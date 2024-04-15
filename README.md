@@ -10,7 +10,7 @@ Soy un desarrollador de 21 años, soy de Barcelona y me apasiona crear experienc
 💖 En mi tiempo libre aprendo sobre nuevas tecnologías que me llaman la atención, y también leo libros 📚
 
 - Visita mi web [coming soon](url) para aprender más sobre mi.
-
+<br>
 [![](https://visitcount.itsvg.in/api?id=harsh12codes&icon=0&color=0)](https://visitcount.itsvg.in) 
 
  ## ⚙Tech Stack:
@@ -18,5 +18,6 @@ Soy un desarrollador de 21 años, soy de Barcelona y me apasiona crear experienc
 
 ## 📫 Contact
 Puedes contactarme en hellomariorous@gmail.com.
+<br>
 Para una respuesta rápida, envíame un DM en [LinkedIn](https://www.linkedin.com/in/mariorous/). 
 
