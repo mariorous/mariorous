@@ -1,7 +1,3 @@
-
-
-### Hey, soy Mario 👋🏻 
-
 ## 👋About Me:
 
 Soy un desarrollador de 21 años, soy de Barcelona y me apasiona crear experiencias digitales. <br>
