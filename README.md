@@ -15,7 +15,7 @@ Soy un desarrollador de 21 años, soy de Barcelona y me apasiona crear experienc
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-[![Gesper Theme](https://svg.bookmark.style/api?url=https://github.com/nuxtbase/auth-ui-vue&mode=light&style=horizontal)](https://github.com/mariorous/gesper-theme)
+[![Gesper Theme](https://svg.bookmark.style/api?url=https://github.com/mariorous/gesper-theme&mode=light&style=horizontal)](https://github.com/mariorous/gesper-theme)
 [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
 [![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner)
 
