@@ -13,6 +13,13 @@ Soy un desarrollador de 21 años, soy de Barcelona y me apasiona crear experienc
 
 [![](https://visitcount.itsvg.in/api?id=harsh12codes&icon=0&color=0)](https://visitcount.itsvg.in) 
 
+## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+
+[![Gesper Theme](https://svg.bookmark.style/api?url=https://github.com/nuxtbase/auth-ui-vue&mode=light&style=horizontal)](https://github.com/mariorous/gesper-theme)
+[![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
+[![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner)
+
+
  ## ⚙Tech Stack:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 ) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
