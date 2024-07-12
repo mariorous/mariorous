@@ -22,28 +22,22 @@ Soy un desarrollador de 21 años, soy de Barcelona y me apasiona crear experienc
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const mariorous = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
+    code: ["Javascript", "PHP"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         backEnd: {
-            js: ["Node", "Fastify", "Express"],
+            js: ["Node", "Express"],
         },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "No Focus point at this time",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me encanta conectarme con diferentes personas</b> así que si quieres saludarme, ¡estaré encantado de conocerte más!</b> 😊</em>
 
  ## ⚙Tech Stack:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
