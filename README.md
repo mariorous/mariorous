@@ -3,7 +3,7 @@
 ## 👋About Me:
 
 Soy un desarrollador de 21 años, soy de Barcelona y me apasiona crear experiencias digitales. <br>
-🔭 Actualmente estoy estudiando primero de Desarrollo de Aplicaciones Web 💻 <br>
+🔭 Actualmente estoy estudiando segundo de Desarrollo de Aplicaciones Web 💻 <br>
 🌱 Estoy aprendiendo por cuenta propia sobre React, Tailwind CSS, TypeScript y más. <br>
 ⚡ Si tienes consejos interesantes de programación, sígueme en mi Twitter para contactar conmigo. <br>
 ✨ También estoy en algunos canales de Discord para aprender más sobre tecnología y discutir con la comunidad. <br>
