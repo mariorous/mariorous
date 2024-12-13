@@ -28,9 +28,9 @@ const mariorous = {
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         backEnd: {
-            js: ["Node", "Express"],
+            js: ["Node", "Express", "PHP"],
         },
-        databases: ["mongo", "MySql", "sqlite"],
+        databases: ["MySql", "sqlite"],
     },
     currentFocus: "No Focus point at this time",
     funFact: "There are two ways to write error-free programs; only the third one works"
@@ -49,7 +49,6 @@ const mariorous = {
 ) ![VueJS](https://img.shields.io/badge/VueJS-20232A?style=for-the-badge&logo=vuejs&logoColor=61DAFB
 ) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 ) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![SQLLiite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
-) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 ) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white
 )
 
