@@ -4,7 +4,7 @@
 
 Soy un desarrollador de 22 años, soy de Barcelona y me apasiona crear experiencias digitales. <br>
 🔭 Actualmente estoy estudiando segundo de Desarrollo de Aplicaciones Web 💻 <br>
-🌱 Estoy aprendiendo por cuenta propia sobre React, Tailwind CSS, TypeScript y más. <br>
+🌱 Estoy aprendiendo por cuenta propia sobre VueJS, Tailwind CSS, TypeScript y más. <br>
 ⚡ Si tienes consejos interesantes de programación, sígueme en mi Twitter para contactar conmigo. <br>
 ✨ También estoy en algunos canales de Discord para aprender más sobre tecnología y discutir con la comunidad. <br>
 💖 En mi tiempo libre aprendo sobre nuevas tecnologías que me llaman la atención, y también leo libros 📚
@@ -15,7 +15,7 @@ Soy un desarrollador de 22 años, soy de Barcelona y me apasiona crear experienc
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-[![hangman_game](https://svg.bookmark.style/api?url=https://github.com/mariorous/gesper-theme&mode=light&style=horizontal)](https://github.com/mariorous/hangman_game)
+[![hangman_game](https://svg.bookmark.style/api?url=https://github.com/mariorous/mariorous-portfolio&mode=light&style=horizontal)](https://github.com/mariorous/mariorous-portfolio)
 
 
 
@@ -46,7 +46,7 @@ const mariorous = {
 ) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 ) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 ) ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
-) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+) ![VueJS](https://img.shields.io/badge/VueJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 ) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 ) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![SQLLiite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
 ) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
