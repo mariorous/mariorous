@@ -1,8 +1,6 @@
 ![NiTjnID](https://github.com/mariorous/mariorous/assets/67478429/0d6bbc82-a6a0-4194-abe4-084901c4da5b)
+
 <h1 align="center"><b>Hi , I'm Mario López </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-
-## 👋About Me:
 
 Soy un desarrollador de 22 años, soy de Barcelona y me apasiona crear experiencias digitales. <br>
 🔭 Actualmente estoy estudiando segundo de Desarrollo de Aplicaciones Web 💻 <br>
@@ -18,28 +16,6 @@ Soy un desarrollador de 22 años, soy de Barcelona y me apasiona crear experienc
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 [![hangman_game](https://svg.bookmark.style/api?url=https://github.com/mariorous/mariorous-portfolio&mode=light&style=horizontal)](https://github.com/mariorous/mariorous-portfolio)
-
-
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const mariorous = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Express", "PHP"],
-        },
-        databases: ["MySql", "sqlite"],
-    },
-    currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me encanta conectarme con diferentes personas</b> así que si quieres saludarme, ¡estaré encantado de conocerte más!</b></em>
 
  ## ⚙Tech Stack:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
