@@ -5,7 +5,7 @@
 Soy un desarrollador de 22 años, soy de Barcelona y me apasiona crear experiencias digitales. <br>
 🔭 Actualmente estoy estudiando segundo de Desarrollo de Aplicaciones Web 💻 <br>
 🌱 Estoy aprendiendo por cuenta propia sobre VueJS, Tailwind CSS, TypeScript y más. <br>
-⚡ Si tienes consejos interesantes de programación, sígueme en mi Twitter para contactar conmigo. <br>
+⚡ Si tienes consejos interesantes de programación, sígueme en mi Instagram para contactar conmigo. <br>
 ✨ También estoy en algunos canales de Discord para aprender más sobre tecnología y discutir con la comunidad. <br>
 💖 En mi tiempo libre aprendo sobre nuevas tecnologías que me llaman la atención, y también leo libros 📚
 
@@ -13,11 +13,11 @@ Soy un desarrollador de 22 años, soy de Barcelona y me apasiona crear experienc
 
 [![](https://visitcount.itsvg.in/api?id=harsh12codes&icon=0&color=0)](https://visitcount.itsvg.in) 
 
-## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+## 👨🏻‍💻 Currently working on
 
 [![hangman_game](https://svg.bookmark.style/api?url=https://github.com/mariorous/mariorous-portfolio&mode=light&style=horizontal)](https://github.com/mariorous/mariorous-portfolio)
 
- ## ⚙Tech Stack:
+ ## ⚙ Tech Stack:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 ) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 ) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
@@ -35,7 +35,8 @@ Puedes contactarme en hellomariorous@gmail.com.
 <br>
 Para una respuesta rápida, envíame un DM en [LinkedIn](https://www.linkedin.com/in/mariorous/). 
 
-## 𝗦𝘁𝗮𝘁𝘀
-
-![mariorous github stats](https://github-readme-stats.vercel.app/api?username=mariorous&show_icons=true&theme=dracula)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mariorous&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mariorous&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariorous&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
