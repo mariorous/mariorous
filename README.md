@@ -4,7 +4,7 @@
 
 Soy un desarrollador de 22 años, soy de Barcelona y me apasiona crear experiencias digitales. <br>
 🔭 Actualmente estoy estudiando segundo de Desarrollo de Aplicaciones Web 💻 <br>
-🌱 Estoy aprendiendo por cuenta propia sobre VueJS, Tailwind CSS, TypeScript y más. <br>
+🌱 Estoy aprendiendo por cuenta propia sobre React, Tailwind CSS, TypeScript y más. <br>
 ⚡ Si tienes consejos interesantes de programación, sígueme en mi Instagram para contactar conmigo. <br>
 ✨ También estoy en algunos canales de Discord para aprender más sobre tecnología y discutir con la comunidad. <br>
 💖 En mi tiempo libre aprendo sobre nuevas tecnologías que me llaman la atención, y también leo libros 📚
@@ -34,9 +34,3 @@ Soy un desarrollador de 22 años, soy de Barcelona y me apasiona crear experienc
 Puedes contactarme en hellomariorous@gmail.com.
 <br>
 Para una respuesta rápida, envíame un DM en [LinkedIn](https://www.linkedin.com/in/mariorous/). 
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mariorous&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mariorous&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariorous&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
