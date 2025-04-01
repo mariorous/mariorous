@@ -9,13 +9,33 @@ Soy un desarrollador de 22 años, soy de Barcelona y me apasiona crear experienc
 ✨ También estoy en algunos canales de Discord para aprender más sobre tecnología y discutir con la comunidad. <br>
 💖 En mi tiempo libre aprendo sobre nuevas tecnologías que me llaman la atención, y también leo libros 📚
 
-- Visita mi web [coming soon](url) para aprender más sobre mi.
+- Visita mi web [aquí](https://mariorous.netlify.app/) para aprender más sobre mi.
 
-[![](https://visitcount.itsvg.in/api?id=harsh12codes&icon=0&color=0)](https://visitcount.itsvg.in) 
-
-## 👨🏻‍💻 Currently working on
-
-[![hangman_game](https://svg.bookmark.style/api?url=https://github.com/mariorous/mariorous-portfolio&mode=light&style=horizontal)](https://github.com/mariorous/mariorous-portfolio)
+### 📬 Social media:
+<p align="left">
+    </a>&nbsp;&nbsp;
+    <a href="[https://www.github.com/mariorous](https://www.youtube.com/@mariorous)" target="_blank" rel="noreferrer">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
+        </picture>
+    </a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/mariorous" target="_blank" rel="noreferrer">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+        </picture>
+    </a>&nbsp;&nbsp;
+    <a href="https://www.x.com/mariorous_" target="_blank" rel="noreferrer">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+        </picture>
+    </a>&nbsp;&nbsp;
+</p>
 
  ## ⚙ Tech Stack:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
