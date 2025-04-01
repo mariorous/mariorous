@@ -1,6 +1,6 @@
 ![NiTjnID](https://github.com/mariorous/mariorous/assets/67478429/0d6bbc82-a6a0-4194-abe4-084901c4da5b)
 
-<h1 align="center"><b>Hi , I'm Mario López </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="left"><b>Hi , I'm Mario López </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 Soy un desarrollador de 22 años, soy de Barcelona y me apasiona crear experiencias digitales. <br>
 🔭 Actualmente estoy estudiando segundo de Desarrollo de Aplicaciones Web 💻 <br>
